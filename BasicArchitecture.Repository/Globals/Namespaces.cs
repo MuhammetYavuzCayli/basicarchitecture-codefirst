@@ -1,0 +1,11 @@
+global using System.Globalization;
+global using System.Reflection;
+global using System.Text;
+global using System.Linq.Dynamic.Core;
+global using System.Linq.Expressions;
+global using System.Text.Json;
+global using AutoMapper;
+global using BasicArchitecture.Repository.Utils;
+global using BasicArchitecture.Domain.MyDbContext;
+global using Microsoft.EntityFrameworkCore;
+global using BasicArchitecture.Core.Dtos;

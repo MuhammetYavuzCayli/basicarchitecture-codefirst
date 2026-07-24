@@ -1,0 +1,14 @@
+global using BasicArchitecture.Core.Dtos;
+global using BasicArchitecture.Core.Models;
+global using BasicArchitecture.Core.Result;
+global using BasicArchitecture.Core.Statics;
+global using BasicArchitecture.Domain.MyDbContext;
+global using BasicArchitecture.Domain.Profile;
+global using BasicArchitecture.Repository;
+global using BasicArchitecture.Repository.Utils;
+global using BasicArchitecture.Service;
+global using BasicArchitecture.Service.Interfaces;
+global using BasicArchitecture.Service.Services;
+global using BasicArchitecture.UI.Extension;
+global using Microsoft.AspNetCore.Authorization;
+global using Microsoft.AspNetCore.Mvc;
